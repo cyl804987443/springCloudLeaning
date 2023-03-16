@@ -83,7 +83,6 @@
             <version>${log4j.version}</version>
         </dependency>
     </dependencies>
-
     </dependencyManagement>
 
 </project>
