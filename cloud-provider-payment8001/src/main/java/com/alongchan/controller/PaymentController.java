@@ -1,5 +1,6 @@
 package com.alongchan.controller;
 
+
 import com.alongchan.entities.Payment;
 import com.alongchan.response.CommonResult;
 import com.alongchan.service.PaymentService;
@@ -27,7 +28,7 @@ public class PaymentController {
 
 
     @PostMapping("/create")
-    public CommonResult<Payment> create( Payment payment) {
+    public CommonResult<Payment> create(@RequestBody Payment payment) {
         if (paymentService.create(payment) > 0) {
             log.info("插入成功");
             return new CommonResult<>(200, "插入数据库成功");
