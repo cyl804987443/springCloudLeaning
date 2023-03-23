@@ -27,8 +27,8 @@ public class CommonResult<T> {
         return new CommonResult(500,"插入失败");
     }
 
-    public static CommonResult success(){
-        return new CommonResult(200,"插入成功");
+    public static <T> CommonResult success(T data){
+        return new CommonResult(200,"插入成功",data);
     }
 
 }

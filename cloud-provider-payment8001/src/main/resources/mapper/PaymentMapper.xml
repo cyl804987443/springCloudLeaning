@@ -12,8 +12,8 @@
         where id = #{id}
     </select>
 
-    <insert id="create" parameterType="payment" useGeneratedKeys="true" keyProperty="id">
-    insert into payment(serial) values(#{serial})
+    <insert id="create"  useGeneratedKeys="true" keyProperty="id">
+    insert into payment(serial) values (#{serial})
     </insert>
 
 
