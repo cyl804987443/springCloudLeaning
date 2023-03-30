@@ -1,0 +1,16 @@
+#8004表示注册到zookeeper服务器的支付服务提供者端口号
+server:
+  port: 8004
+#服务别名--注册zookeeper到注册中心名称
+spring:
+  application:
+    name: cloud-provider-payment
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/wode?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&useTimezone=true
+    username: root
+    password: root

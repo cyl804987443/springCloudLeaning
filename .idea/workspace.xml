@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e87cb8d5-796c-4c0b-98d3-779ffd31cad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/Payment8002Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/dao/PaymentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server-7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="9c6c017f-c46b-4dea-b999-8cf99d3ebfcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/alongchan/Payment8004Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/alongchan/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/alongchan/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/alongchan/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/alongchan/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,45 +19,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-    <option name="PARALLEL_COMPILATION" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="51e03758-5bfb-4188-9eab-50be38f78e9f" />
-        <option name="url" value="git@github.com:cyl804987443/springCloudLeaning.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\workSpace\DevelopSoft\MAVEN\maven_local_repository" />
-        <option name="mavenHome" value="D:/workSpace/DevelopSoft/MAVEN/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\workSpace\DevelopSoft\MAVEN\apache-maven-3.6.3\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
-  <component name="ProjectId" id="2JjDPGEHU8Ww79lzdFEG9P99scu" />
+  <component name="ProjectId" id="2NjZdiJIzdlcNPWYL3zC1Z52nmB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -75,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -83,27 +44,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/80498/Desktop/学习/java项目练习/学习项目/learning-springCloud/cloud-provider-payment8002/src/main/java/com/alongchan",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
+    "last_opened_file_path": "C:/Users/80498/Desktop/学习/java项目练习/学习项目/learning-springCloud/cloud-provider-payment8004/src/main/java/com/alongchan",
     "settings.editor.selected.configurable": "preferences.fileTypes",
-    "spring.configuration.checksum": "6e23343c5cc08c9251de88c474caf945"
+    "spring.configuration.checksum": "bc4a4f9af6861422dbafe46f90f05698"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\80498\Desktop\学习\java项目练习\学习项目\learning-springCloud\cloud-provider-payment8002\src\main\java\com\alongchan" />
-      <recent name="C:\Users\80498\Desktop\学习\java项目练习\学习项目\learning-springCloud\cloud-provider-payment8002\src\main\java" />
-      <recent name="C:\Users\80498\Desktop\学习\java项目练习\学习项目\learning-springCloud\cloud-provider-payment8002\src\main\resources" />
-      <recent name="C:\Users\80498\Desktop\学习\java项目练习\学习项目\learning-springCloud" />
+      <recent name="C:\Users\80498\Desktop\学习\java项目练习\学习项目\learning-springCloud\cloud-provider-payment8004\src\main\java\com\alongchan" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.alongchan.dao" />
       <recent name="com.alongchan.controller" />
-      <recent name="com.alongchan.response" />
-      <recent name="com.alongchan.entities" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,55 +65,31 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Payment8002Main">
-    <configuration name="EurekaMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.Payment8004Main">
+    <configuration name="EurekaMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server-7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alongchan.EurekaMain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alongchan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServer7002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaServer7002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server-7002" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alongchan.EurekaServer7002Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alongchan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alongchan.Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alongchan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.alongchan.OrderMain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alongchan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,33 +101,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Payment8004Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alongchan.Payment8004Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alongchan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Main" />
-        <item itemvalue="Spring Boot.EurekaMain" />
-        <item itemvalue="Spring Boot.OrderMain" />
-        <item itemvalue="Spring Boot.EurekaServer7002Main" />
+        <item itemvalue="Spring Boot.Payment8004Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e87cb8d5-796c-4c0b-98d3-779ffd31cad3" name="Changes" comment="" />
-      <created>1672582572386</created>
+      <changelist id="9c6c017f-c46b-4dea-b999-8cf99d3ebfcf" name="Changes" comment="" />
+      <created>1680179543895</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672582572386</updated>
-      <workItem from="1672582574090" duration="805000" />
-      <workItem from="1678976283890" duration="1161000" />
-      <workItem from="1679063005871" duration="646000" />
-      <workItem from="1679114337182" duration="9111000" />
-      <workItem from="1679487068836" duration="10229000" />
-      <workItem from="1679573993322" duration="2279000" />
-      <workItem from="1679576283583" duration="516000" />
-      <workItem from="1679576877294" duration="6577000" />
-      <workItem from="1679919110349" duration="9913000" />
-      <workItem from="1680005628010" duration="6589000" />
+      <updated>1680179543895</updated>
+      <workItem from="1680179547109" duration="732000" />
+      <workItem from="1680180979209" duration="1190000" />
+      <workItem from="1680190955728" duration="2046000" />
     </task>
     <servers />
   </component>
@@ -216,5 +147,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
