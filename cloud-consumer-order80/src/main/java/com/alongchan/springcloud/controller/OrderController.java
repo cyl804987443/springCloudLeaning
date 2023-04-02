@@ -1,4 +1,4 @@
-package com.alongchan.controller;
+package com.alongchan.springcloud.controller;
 
 
 import com.alongchan.entities.Payment;
