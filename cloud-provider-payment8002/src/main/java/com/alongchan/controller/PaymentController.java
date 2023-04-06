@@ -41,4 +41,8 @@ public class PaymentController {
         return CommonResult.error();
     }
 
+    @GetMapping("/getServerPort")
+    public String getServerPort(){
+        return serverPort;
+    };
 }

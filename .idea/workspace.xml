@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c6c017f-c46b-4dea-b999-8cf99d3ebfcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/myrule/MySelfRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/OrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/OrderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/alongchan/config/AppliacionContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/alongchan/myrule/AppliacionContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/service/MyLoadBalanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/service/impl/MyLoadBalanceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/alongchan/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/alongchan/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/alongchan/controller/PaymentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +52,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/80498/Desktop/学习/java项目练习/学习项目/learning-springCloud/cloud-provider-payment8004/src/main/java/com/alongchan&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.obiscr.chatgpt.settings.ChatGPT&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;0df75806bbca7146be3698ad1551fbb5&quot;
   }
 }</component>
@@ -133,6 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain" />
+      <item itemvalue="Spring Boot.OrderMain" />
+      <item itemvalue="Spring Boot.Main" />
+      <item itemvalue="Spring Boot.EurekaServer7002Main" />
+      <item itemvalue="Spring Boot.Payment8002Main" />
+      <item itemvalue="Spring Boot.OrderZKMain" />
+      <item itemvalue="Spring Boot.Payment8004Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.OrderZKMain" />
@@ -155,7 +166,10 @@
       <workItem from="1680274512121" duration="464000" />
       <workItem from="1680319374792" duration="1047000" />
       <workItem from="1680406432032" duration="3000" />
-      <workItem from="1680413934899" duration="2629000" />
+      <workItem from="1680413934899" duration="3571000" />
+      <workItem from="1680526933833" duration="480000" />
+      <workItem from="1680781711663" duration="1077000" />
+      <workItem from="1680784886264" duration="1750000" />
     </task>
     <servers />
   </component>
